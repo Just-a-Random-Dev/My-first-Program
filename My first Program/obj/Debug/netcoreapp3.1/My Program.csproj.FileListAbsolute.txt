@@ -1,0 +1,40 @@
+/Users/alqahtani/Desktop/My Program/bin/Debug/netcoreapp3.1/My Program.deps.json
+/Users/alqahtani/Desktop/My Program/bin/Debug/netcoreapp3.1/My Program.runtimeconfig.json
+/Users/alqahtani/Desktop/My Program/bin/Debug/netcoreapp3.1/My Program.runtimeconfig.dev.json
+/Users/alqahtani/Desktop/My Program/bin/Debug/netcoreapp3.1/My Program.dll
+/Users/alqahtani/Desktop/My Program/bin/Debug/netcoreapp3.1/My Program.pdb
+/Users/alqahtani/Desktop/My Program/obj/Debug/netcoreapp3.1/My Program.csprojAssemblyReference.cache
+/Users/alqahtani/Desktop/My Program/obj/Debug/netcoreapp3.1/My Program.AssemblyInfoInputs.cache
+/Users/alqahtani/Desktop/My Program/obj/Debug/netcoreapp3.1/My Program.AssemblyInfo.cs
+/Users/alqahtani/Desktop/My Program/obj/Debug/netcoreapp3.1/My Program.csproj.CoreCompileInputs.cache
+/Users/alqahtani/Desktop/My Program/obj/Debug/netcoreapp3.1/My Program.dll
+/Users/alqahtani/Desktop/My Program/obj/Debug/netcoreapp3.1/My Program.pdb
+/Users/alqahtani/Desktop/My Program/obj/Debug/netcoreapp3.1/My Program.genruntimeconfig.cache
+/Users/alqahtani/Desktop/Desktop/Desktop files/folder /apps/coding/My Program/bin/Debug/netcoreapp3.1/My Program
+/Users/alqahtani/Desktop/Desktop/Desktop files/folder /apps/coding/My Program/bin/Debug/netcoreapp3.1/My Program.deps.json
+/Users/alqahtani/Desktop/Desktop/Desktop files/folder /apps/coding/My Program/bin/Debug/netcoreapp3.1/My Program.runtimeconfig.json
+/Users/alqahtani/Desktop/Desktop/Desktop files/folder /apps/coding/My Program/bin/Debug/netcoreapp3.1/My Program.runtimeconfig.dev.json
+/Users/alqahtani/Desktop/Desktop/Desktop files/folder /apps/coding/My Program/bin/Debug/netcoreapp3.1/My Program.dll
+/Users/alqahtani/Desktop/Desktop/Desktop files/folder /apps/coding/My Program/bin/Debug/netcoreapp3.1/My Program.pdb
+/Users/alqahtani/Desktop/Desktop/Desktop files/folder /apps/coding/My Program/obj/Debug/netcoreapp3.1/My Program.csproj.AssemblyReference.cache
+/Users/alqahtani/Desktop/Desktop/Desktop files/folder /apps/coding/My Program/obj/Debug/netcoreapp3.1/My Program.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alqahtani/Desktop/Desktop/Desktop files/folder /apps/coding/My Program/obj/Debug/netcoreapp3.1/My Program.AssemblyInfoInputs.cache
+/Users/alqahtani/Desktop/Desktop/Desktop files/folder /apps/coding/My Program/obj/Debug/netcoreapp3.1/My Program.AssemblyInfo.cs
+/Users/alqahtani/Desktop/Desktop/Desktop files/folder /apps/coding/My Program/obj/Debug/netcoreapp3.1/My Program.csproj.CoreCompileInputs.cache
+/Users/alqahtani/Desktop/Desktop/Desktop files/folder /apps/coding/My Program/obj/Debug/netcoreapp3.1/My Program.dll
+/Users/alqahtani/Desktop/Desktop/Desktop files/folder /apps/coding/My Program/obj/Debug/netcoreapp3.1/My Program.pdb
+/Users/alqahtani/Desktop/Desktop/Desktop files/folder /apps/coding/My Program/obj/Debug/netcoreapp3.1/My Program.genruntimeconfig.cache
+/Users/alqahtani/Desktop/Desktop/Desktop files/folder /apps/coding/My first Program/bin/Debug/netcoreapp3.1/My Program
+/Users/alqahtani/Desktop/Desktop/Desktop files/folder /apps/coding/My first Program/bin/Debug/netcoreapp3.1/My Program.deps.json
+/Users/alqahtani/Desktop/Desktop/Desktop files/folder /apps/coding/My first Program/bin/Debug/netcoreapp3.1/My Program.runtimeconfig.json
+/Users/alqahtani/Desktop/Desktop/Desktop files/folder /apps/coding/My first Program/bin/Debug/netcoreapp3.1/My Program.runtimeconfig.dev.json
+/Users/alqahtani/Desktop/Desktop/Desktop files/folder /apps/coding/My first Program/bin/Debug/netcoreapp3.1/My Program.dll
+/Users/alqahtani/Desktop/Desktop/Desktop files/folder /apps/coding/My first Program/bin/Debug/netcoreapp3.1/My Program.pdb
+/Users/alqahtani/Desktop/Desktop/Desktop files/folder /apps/coding/My first Program/obj/Debug/netcoreapp3.1/My Program.csproj.AssemblyReference.cache
+/Users/alqahtani/Desktop/Desktop/Desktop files/folder /apps/coding/My first Program/obj/Debug/netcoreapp3.1/My Program.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alqahtani/Desktop/Desktop/Desktop files/folder /apps/coding/My first Program/obj/Debug/netcoreapp3.1/My Program.AssemblyInfoInputs.cache
+/Users/alqahtani/Desktop/Desktop/Desktop files/folder /apps/coding/My first Program/obj/Debug/netcoreapp3.1/My Program.AssemblyInfo.cs
+/Users/alqahtani/Desktop/Desktop/Desktop files/folder /apps/coding/My first Program/obj/Debug/netcoreapp3.1/My Program.csproj.CoreCompileInputs.cache
+/Users/alqahtani/Desktop/Desktop/Desktop files/folder /apps/coding/My first Program/obj/Debug/netcoreapp3.1/My Program.dll
+/Users/alqahtani/Desktop/Desktop/Desktop files/folder /apps/coding/My first Program/obj/Debug/netcoreapp3.1/My Program.pdb
+/Users/alqahtani/Desktop/Desktop/Desktop files/folder /apps/coding/My first Program/obj/Debug/netcoreapp3.1/My Program.genruntimeconfig.cache

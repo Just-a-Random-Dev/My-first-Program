@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ogzoDADljn3E996Kcg8R6FfjNegYj7yCVSlPg7AKl739RYRTTlDQCIOjzSL+Z+F4vIKdMgJD+gg13lp61NTsqQ==",
+  "success": true,
+  "projectFilePath": "/Users/alqahtani/Desktop/Desktop/Desktop files/folder /apps/coding/My first Program/My Program.csproj",
+  "expectedPackageFiles": [
+    "/Users/alqahtani/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.22/microsoft.netcore.app.host.osx-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
